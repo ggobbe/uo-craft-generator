@@ -1,0 +1,8 @@
+ItemName,ItemParent,ItemId,ItemFullName,ItemWeight
+CapeCourte,BaseCloak,0x16DA,Cape Courte,5.0
+CapePeau,BaseCloak,0x16DB,Cape de Peau,5.0
+CapeDrapee,BaseCloak,0x16DC,Cape Drapée,5.0
+CapeFourrure,BaseCloak,0x16DD,Cape de Fourrure,5.0
+CapeLegere,BaseCloak,0x16DE,Cape Légère,5.0
+CapeStylisee,BaseCloak,0x16DF,Cape Stylisée,5.0
+CapeVoyageur,BaseCloak,0x16E0,Cape du Voyageur,5.0
