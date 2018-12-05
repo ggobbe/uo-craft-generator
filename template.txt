@@ -16,6 +16,16 @@
         {
         }
 
+{{if:FemaleOnly}}        public override bool OnEquip(Mobile @from)
+{{if:FemaleOnly}}        {
+{{if:FemaleOnly}}            return from.Female && base.OnEquip(@from);
+{{if:FemaleOnly}}        }
+{{if:FemaleOnly}}
+{{if:ManOnly}}        public override bool OnEquip(Mobile @from)
+{{if:ManOnly}}        {
+{{if:ManOnly}}            return !from.Female && base.OnEquip(@from);
+{{if:ManOnly}}        }
+{{if:ManOnly}}
         public override void Serialize(GenericWriter writer)
         {
             base.Serialize(writer);
