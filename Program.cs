@@ -11,6 +11,9 @@ namespace item_generator
     {
         private const string TagPrefix = "{{";
         private const string TagSuffix = "}}";
+        
+        private const string SwitchPrefix = "[";
+        private const string SwitchSuffix = "]";
 
         static void Main(string[] args)
         {
@@ -37,17 +40,22 @@ namespace item_generator
 
                     foreach (var key in headerRow)
                     {
-                        var tag = new StringBuilder().Append(TagPrefix).Append(key).Append(TagSuffix).ToString();
+                        var tag = string.Format("{0}{1}{2}", TagPrefix, key, TagSuffix);
                         var value = csv[key];
 
                         if (key.StartsWith("if:"))
                         {
-                            value = bool.Parse(value) ? string.Empty : "//";
+                            if (!bool.Parse(value))
+                            {
+                                continue;
+                            }
+
+                            value = string.Empty;
                         }
 
                         if (key.StartsWith("switch:"))
                         {
-                            tag = new StringBuilder().Append(TagPrefix).Append("switch:").Append(value).Append(TagSuffix).ToString();
+                            tag = string.Format("{0}{1}{2}{3}{4}{5}", TagPrefix, key, SwitchPrefix, value, SwitchSuffix, TagSuffix);
                             value = string.Empty;
                         }
 
@@ -61,7 +69,10 @@ namespace item_generator
 
         private static string RemoveComments(string input)
         {
-            var lines = input.Split(Environment.NewLine).Where(l => !l.TrimStart().StartsWith("//") && !l.TrimStart().StartsWith("{{switch:"));
+            var ifPrefix = string.Format("{0}if:", TagPrefix);
+            var switchPrefix = string.Format("{0}switch:", TagPrefix);
+            
+            var lines = input.Split(Environment.NewLine).Where(l => !l.TrimStart().StartsWith(ifPrefix) && !l.TrimStart().StartsWith(switchPrefix));
             return string.Join(Environment.NewLine, lines);
         }
     }
