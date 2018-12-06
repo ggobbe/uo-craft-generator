@@ -1,77 +1,77 @@
-ItemName,ItemParent,ItemId,ItemFullName,ItemWeight,if:FemaleOnly,if:ManOnly
-CapeCourte,BaseCloak,0x16DA,Cape Courte,5.0,FALSE,FALSE
-CapePeau,BaseCloak,0x16DB,Cape de Peau,5.0,FALSE,FALSE
-CapeDrapee,BaseCloak,0x16DC,Cape Drapée,5.0,FALSE,FALSE
-CapeFourrure,BaseCloak,0x16DD,Cape de Fourrure,5.0,FALSE,FALSE
-CapeLegere,BaseCloak,0x16DE,Cape Légère,5.0,FALSE,FALSE
-CapeStylisee,BaseCloak,0x16DF,Cape Stylisée,5.0,FALSE,FALSE
-CapeVoyageur,BaseCloak,0x16E0,Cape du Voyageur,5.0,FALSE,FALSE
-FoulardTaille,BaseOuterLegs,0x16E1,Foulard de Taille,4.0,FALSE,FALSE
-JupeCintree,BaseOuterLegs,0x16E2,Jupe Cintrée,4.0,FALSE,FALSE
-JupeCombat,BaseOuterLegs,0x16E3,Jupe de Combat,4.0,FALSE,FALSE
-JupeNomade,BaseOuterLegs,0x16E4,Jupe de Nomade,4.0,FALSE,FALSE
-JupeDechiree,BaseOuterLegs,0x16E5,Jupe Déchirée,4.0,FALSE,FALSE
-JupeFendue,BaseOuterLegs,0x16E6,Jupe Fendue,4.0,FALSE,FALSE
-JupeFluide,BaseOuterLegs,0x16E7,Jupe Fluide,4.0,FALSE,FALSE
-JupeLongue,BaseOuterLegs,0x16E8,Jupe Longue,4.0,FALSE,FALSE
-JupeNordique,BaseOuterLegs,0x16E9,Jupe Nordique,4.0,FALSE,FALSE
-JupeSombre,BaseOuterLegs,0x16EA,Jupe Sombre,4.0,FALSE,FALSE
-PantalonGance,BasePants,0x16EB,Pantalon à Gance,2.0,FALSE,FALSE
-PantalonBouffant,BasePants,0x16EC,Pantalon Bouffant,2.0,FALSE,FALSE
-PantalonCourt,BasePants,0x16ED,Pantalon Court,2.0,FALSE,FALSE
-PantalonCuir,BasePants,0x16EE,Pantalon Cuir,2.0,FALSE,FALSE
-PantalonMoulant,BasePants,0x16EF,Pantalon Moulant,2.0,FALSE,FALSE
-PantalonNinja,BasePants,0x16F0,Pantalon de Ninja,2.0,FALSE,FALSE
-PantalonNinja2,BasePants,0x16F1,Pantalon de Ninja,2.0,FALSE,FALSE
-PantalonOrne,BasePants,0x16F2,Pantalon Orné,2.0,FALSE,FALSE
-PantalonPauvre,BasePants,0x16F3,Pantalon de Pauvre,2.0,FALSE,FALSE
-PantalonRodeur,BasePants,0x16F4,Pantalon de Rodeur,2.0,FALSE,FALSE
-ChemiseLassee,BaseShirt,0x31C1,chemise lassée,2.0,FALSE,FALSE
-ChemiseNoble,BaseShirt,0x31C2,Chemise noble,2.0,FALSE,FALSE
-GambisonAjuste,BaseShirt,0x31C3,Gambison ajusté,1.0,FALSE,FALSE
-JusteAuCorpCuir,BaseShirt,0x31C4,Juste au corp de cuire,1.0,FALSE,FALSE
-JusteAuCorpRafine,BaseShirt,0x31C5,Juste au corps rafiné,2.0,FALSE,FALSE
-ManteauVille,BaseShirt,0x31C6,Manteau de Ville,2.0,FALSE,FALSE
-PourpointCuir,BaseShirt,0x31C7,Pourpoint de Cuire,1.0,FALSE,FALSE
-PourpointFourrure,BaseShirt,0x31C8,Pourpoint de Fourrure,1.0,FALSE,FALSE
-SurvetementCollerette,BaseShirt,0x31C9,Survêtement à Collerette,1.0,FALSE,FALSE
-SurvetementCuir,BaseShirt,0x31CA,Survêtement de Cuir,2.0,FALSE,FALSE
-TabarCeinturon,BaseMiddleTorso,0x31CB,Tabar à Ceinturon,5.0,FALSE,FALSE
-TenueForestiere,BaseShirt,0x31CC,Tenue Forestière,1.0,FALSE,FALSE
-TuniqueCintree,BaseMiddleTorso,0x31CD,Tunique Cintrée,5.0,FALSE,FALSE
-TuniqueCombat,BaseMiddleTorso,0x31CE,Tunique de Combat,5.0,FALSE,FALSE
-TuniqueDefraichie,BaseMiddleTorso,0x31CF,Tunique Défraîchie,5.0,FALSE,FALSE
-VesteFourrure,BaseShirt,0x31D0,Veste de Fourrure,1.0,FALSE,FALSE
-VestionCuir,BaseShirt,0x31D1,Vestion de Cuir,1.0,FALSE,FALSE
-VestonColV,BaseShirt,0x31D2,Veston à Col en V,2.0,FALSE,FALSE
-ChemiseOrnee,BaseShirt,0x2BE9,Chemise Ornée,1.0,FALSE,FALSE
-CorsetCuir,BaseShirt,0x2BEA,Corset de Cuir,1.0,FALSE,FALSE
-DoubletPaysan,BaseMiddleTorso,0x2BEB,Doublet de Paysan,2.0,FALSE,FALSE
-Gaine,BaseMiddleTorso,0x2BEC,Gaine,2.0,FALSE,FALSE
-Corsage,BaseMiddleTorso,0x2BED,Corsage,2.0,TRUE,FALSE
-PetitCorset,BaseMiddleTorso,0x2BEE,Petit Corset,2.0,FALSE,FALSE
-PourpointNoble,BaseShirt,0x2BEF,Pourpoint Noble,2.0,FALSE,FALSE
-SoutienGorgeEchancre,BaseShirt,0x2BF0,Soutien Gorge Echancré,1.0,TRUE,FALSE
-SoutienGorgeTissu,BaseShirt,0x2BF1,Soutien Gorge en Tissu,1.0,TRUE,FALSE
-TuniqueCuir,BaseMiddleTorso,0x2BF2,Tunique de Cuir,5.0,FALSE,FALSE
-TuniqueForestier,BaseMiddleTorso,0x2BF3,Tunique de Forestier,5.0,FALSE,FALSE
-UniformeCapitaine,BaseMiddleTorso,0x2BF4,Uniforme de Capitaine,5.0,FALSE,TRUE
-VestonPirate,BaseMiddleTorso,0x18C3,Veston Pirate,5.0,FALSE,FALSE
-VestonBum,BaseMiddleTorso,0x18C4,Veston Bum,5.0,FALSE,FALSE
-RobeAubergiste,BaseShirt,0x31D3,Robe Aubergiste,2.0,FALSE,FALSE
-RobeVoyage,BaseOuterTorso,0x31D4,Robe de Voyage,2.0,FALSE,FALSE
-RobeEquitation,BaseOuterTorso,0x31D5,Robe d'Equitation,2.0,FALSE,FALSE
-RobeSofistiquee,BaseOuterTorso,0x31D6,Robe Sofistiquée,2.0,FALSE,FALSE
-RobeVaporeuse,BaseOuterTorso,0x31D7,Robe Vaporeuse,2.0,FALSE,FALSE
-RobeVaporeuseManches,BaseOuterTorso,0x31D8,Robe Vaporeuse à Manches,2.0,FALSE,FALSE
-RobeAjustee,BaseOuterTorso,0x31D9,Robe Ajustée,2.0,FALSE,FALSE
-RobeBohemienne,BaseShirt,0x31DA,Robe de Bohémienne,2.0,FALSE,FALSE
-RobeBourgeoise,BaseShirt,0x31DB,Robe Bourgoise,2.0,FALSE,FALSE
-RobeDepravee,BaseOuterTorso,0x31DC,Robe Depravée,2.0,FALSE,FALSE
-RobeDrappee,BaseOuterTorso,0x31DE,Robe Drappée,2.0,FALSE,FALSE
-RobeMonastere,BaseShirt,0x31DF,Robe de Monastère,2.0,FALSE,FALSE
-RobeNoble,BaseShirt,0x31E0,Robe Noble,2.0,FALSE,FALSE
-RobePlissee,BaseOuterTorso,0x31E1,Robe Plissée,2.0,FALSE,FALSE
-RobeSansManches,BaseOuterTorso,0x31E2,Robe sans Manches,2.0,FALSE,FALSE
-TogeSombre,BaseOuterTorso,0x31E3,Toge Sombre,3.0,FALSE,FALSE
-RobePelerin,BaseOuterTorso,0x16F5,Robe de Pèlerin,2.0,FALSE,FALSE
+ItemName,ItemParent,ItemId,ItemFullName,ItemWeight,if:FemaleOnly,if:ManOnly,switch:CraftBase
+CapeCourte,BaseCloak,0x16DA,Cape Courte,5.0,FALSE,FALSE,Cloak
+CapePeau,BaseCloak,0x16DB,Cape de Peau,5.0,FALSE,FALSE,Cloak
+CapeDrapee,BaseCloak,0x16DC,Cape Drapée,5.0,FALSE,FALSE,Cloak
+CapeFourrure,BaseCloak,0x16DD,Cape de Fourrure,5.0,FALSE,FALSE,Cloak
+CapeLegere,BaseCloak,0x16DE,Cape Légère,5.0,FALSE,FALSE,Cloak
+CapeStylisee,BaseCloak,0x16DF,Cape Stylisée,5.0,FALSE,FALSE,Cloak
+CapeVoyageur,BaseCloak,0x16E0,Cape du Voyageur,5.0,FALSE,FALSE,Cloak
+FoulardTaille,BaseOuterLegs,0x16E1,Foulard de Taille,4.0,FALSE,FALSE,Skirt
+JupeCintree,BaseOuterLegs,0x16E2,Jupe Cintrée,4.0,FALSE,FALSE,Skirt
+JupeCombat,BaseOuterLegs,0x16E3,Jupe de Combat,4.0,FALSE,FALSE,Skirt
+JupeNomade,BaseOuterLegs,0x16E4,Jupe de Nomade,4.0,FALSE,FALSE,Skirt
+JupeDechiree,BaseOuterLegs,0x16E5,Jupe Déchirée,4.0,FALSE,FALSE,Skirt
+JupeFendue,BaseOuterLegs,0x16E6,Jupe Fendue,4.0,FALSE,FALSE,Skirt
+JupeFluide,BaseOuterLegs,0x16E7,Jupe Fluide,4.0,FALSE,FALSE,Skirt
+JupeLongue,BaseOuterLegs,0x16E8,Jupe Longue,4.0,FALSE,FALSE,Skirt
+JupeNordique,BaseOuterLegs,0x16E9,Jupe Nordique,4.0,FALSE,FALSE,Skirt
+JupeSombre,BaseOuterLegs,0x16EA,Jupe Sombre,4.0,FALSE,FALSE,Skirt
+PantalonGance,BasePants,0x16EB,Pantalon à Gance,2.0,FALSE,FALSE,LongPants
+PantalonBouffant,BasePants,0x16EC,Pantalon Bouffant,2.0,FALSE,FALSE,LongPants
+PantalonCourt,BasePants,0x16ED,Pantalon Court,2.0,FALSE,FALSE,ShortPants
+PantalonCuir,BasePants,0x16EE,Pantalon Cuir,2.0,FALSE,FALSE,LongPants
+PantalonMoulant,BasePants,0x16EF,Pantalon Moulant,2.0,FALSE,FALSE,LongPants
+PantalonNinja,BasePants,0x16F0,Pantalon de Ninja,2.0,FALSE,FALSE,LongPants
+PantalonNinja2,BasePants,0x16F1,Pantalon de Ninja,2.0,FALSE,FALSE,LongPants
+PantalonOrne,BasePants,0x16F2,Pantalon Orné,2.0,FALSE,FALSE,LongPants
+PantalonPauvre,BasePants,0x16F3,Pantalon de Pauvre,2.0,FALSE,FALSE,ShortPants
+PantalonRodeur,BasePants,0x16F4,Pantalon de Rodeur,2.0,FALSE,FALSE,LongPants
+ChemiseLassee,BaseShirt,0x31C1,chemise lassée,2.0,FALSE,FALSE,FancyShirt
+ChemiseNoble,BaseShirt,0x31C2,Chemise noble,2.0,FALSE,FALSE,FancyShirt
+GambisonAjuste,BaseShirt,0x31C3,Gambison ajusté,1.0,FALSE,FALSE,Shirt
+JusteAuCorpCuir,BaseShirt,0x31C4,Juste au corp de cuire,1.0,FALSE,FALSE,Shirt
+JusteAuCorpRafine,BaseShirt,0x31C5,Juste au corps rafiné,2.0,FALSE,FALSE,FancyShirt
+ManteauVille,BaseShirt,0x31C6,Manteau de Ville,2.0,FALSE,FALSE,FancyShirt
+PourpointCuir,BaseShirt,0x31C7,Pourpoint de Cuire,1.0,FALSE,FALSE,Shirt
+PourpointFourrure,BaseShirt,0x31C8,Pourpoint de Fourrure,1.0,FALSE,FALSE,Shirt
+SurvetementCollerette,BaseShirt,0x31C9,Survêtement à Collerette,1.0,FALSE,FALSE,Shirt
+SurvetementCuir,BaseShirt,0x31CA,Survêtement de Cuir,2.0,FALSE,FALSE,FancyShirt
+TabarCeinturon,BaseMiddleTorso,0x31CB,Tabar à Ceinturon,5.0,FALSE,FALSE,Tunic
+TenueForestiere,BaseShirt,0x31CC,Tenue Forestière,1.0,FALSE,FALSE,Shirt
+TuniqueCintree,BaseMiddleTorso,0x31CD,Tunique Cintrée,5.0,FALSE,FALSE,Tunic
+TuniqueCombat,BaseMiddleTorso,0x31CE,Tunique de Combat,5.0,FALSE,FALSE,Tunic
+TuniqueDefraichie,BaseMiddleTorso,0x31CF,Tunique Défraîchie,5.0,FALSE,FALSE,Tunic
+VesteFourrure,BaseShirt,0x31D0,Veste de Fourrure,1.0,FALSE,FALSE,Shirt
+VestonCuir,BaseShirt,0x31D1,Veston de Cuir,1.0,FALSE,FALSE,Shirt
+VestonColV,BaseShirt,0x31D2,Veston à Col en V,2.0,FALSE,FALSE,FancyShirt
+ChemiseOrnee,BaseShirt,0x2BE9,Chemise Ornée,1.0,FALSE,FALSE,Shirt
+CorsetCuir,BaseShirt,0x2BEA,Corset de Cuir,1.0,FALSE,FALSE,Shirt
+DoubletPaysan,BaseMiddleTorso,0x2BEB,Doublet de Paysan,2.0,FALSE,FALSE,Doublet
+Gaine,BaseMiddleTorso,0x2BEC,Gaine,2.0,FALSE,FALSE,Doublet
+Corsage,BaseMiddleTorso,0x2BED,Corsage,2.0,TRUE,FALSE,Doublet
+PetitCorset,BaseMiddleTorso,0x2BEE,Petit Corset,2.0,FALSE,FALSE,Doublet
+PourpointNoble,BaseShirt,0x2BEF,Pourpoint Noble,2.0,FALSE,FALSE,FancyShirt
+SoutienGorgeEchancre,BaseShirt,0x2BF0,Soutien Gorge Echancré,1.0,TRUE,FALSE,Shirt
+SoutienGorgeTissu,BaseShirt,0x2BF1,Soutien Gorge en Tissu,1.0,TRUE,FALSE,Shirt
+TuniqueCuir,BaseMiddleTorso,0x2BF2,Tunique de Cuir,5.0,FALSE,FALSE,Tunic
+TuniqueForestier,BaseMiddleTorso,0x2BF3,Tunique de Forestier,5.0,FALSE,FALSE,Tunic
+UniformeCapitaine,BaseMiddleTorso,0x2BF4,Uniforme de Capitaine,5.0,FALSE,TRUE,Tunic
+VestonPirate,BaseMiddleTorso,0x18C3,Veston Pirate,5.0,FALSE,FALSE,Tunic
+VestonBum,BaseMiddleTorso,0x18C4,Veston Bum,5.0,FALSE,FALSE,Tunic
+RobeAubergiste,BaseShirt,0x31D3,Robe Aubergiste,2.0,FALSE,FALSE,FancyShirt
+RobeVoyage,BaseOuterTorso,0x31D4,Robe de Voyage,2.0,FALSE,FALSE,Robe
+RobeEquitation,BaseOuterTorso,0x31D5,Robe d'Equitation,2.0,FALSE,FALSE,Robe
+RobeSofistiquee,BaseOuterTorso,0x31D6,Robe Sofistiquée,2.0,FALSE,FALSE,Robe
+RobeVaporeuse,BaseOuterTorso,0x31D7,Robe Vaporeuse,2.0,FALSE,FALSE,Robe
+RobeVaporeuseManches,BaseOuterTorso,0x31D8,Robe Vaporeuse à Manches,2.0,FALSE,FALSE,Robe
+RobeAjustee,BaseOuterTorso,0x31D9,Robe Ajustée,2.0,FALSE,FALSE,Robe
+RobeBohemienne,BaseShirt,0x31DA,Robe de Bohémienne,2.0,FALSE,FALSE,FancyShirt
+RobeBourgeoise,BaseShirt,0x31DB,Robe Bourgoise,2.0,FALSE,FALSE,FancyShirt
+RobeDepravee,BaseOuterTorso,0x31DC,Robe Depravée,2.0,FALSE,FALSE,Robe
+RobeDrappee,BaseOuterTorso,0x31DE,Robe Drappée,2.0,FALSE,FALSE,Robe
+RobeMonastere,BaseShirt,0x31DF,Robe de Monastère,2.0,FALSE,FALSE,FancyShirt
+RobeNoble,BaseShirt,0x31E0,Robe Noble,2.0,FALSE,FALSE,FancyShirt
+RobePlissee,BaseOuterTorso,0x31E1,Robe Plissée,2.0,FALSE,FALSE,Robe
+RobeSansManches,BaseOuterTorso,0x31E2,Robe sans Manches,2.0,FALSE,FALSE,Robe
+TogeSombre,BaseOuterTorso,0x31E3,Toge Sombre,3.0,FALSE,FALSE,Robe
+RobePelerin,BaseOuterTorso,0x16F5,Robe de Pèlerin,2.0,FALSE,FALSE,Robe
