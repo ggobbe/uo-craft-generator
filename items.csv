@@ -75,3 +75,26 @@ RobePlissee,BaseOuterTorso,0x31E1,Robe Plissée,2.0,FALSE,FALSE,Robe
 RobeSansManches,BaseOuterTorso,0x31E2,Robe sans Manches,2.0,FALSE,FALSE,Robe
 TogeSombre,BaseOuterTorso,0x31E3,Toge Sombre,3.0,FALSE,FALSE,Robe
 RobePelerin,BaseOuterTorso,0x16F5,Robe de Pèlerin,2.0,FALSE,FALSE,Robe
+BandageAbdomen,BaseWaist,0x2E48,Bandage Abdomen,2.0,FALSE,FALSE,Belt
+BandagePoignets,BaseWaist,0x2E49,Bandage Poignets,2.0,FALSE,FALSE,Belt
+BandagePieds,BaseWaist,0x2E4A,Bandages Pieds,2.0,FALSE,FALSE,Belt
+Carquois,BaseQuiver,0x2E4B,Carquois,2.0,FALSE,FALSE,Quiver
+CeintureCouteaux,BaseWaist,0x2E4C,Ceinture à Couteaux,2.0,FALSE,FALSE,Belt
+CeinturePochette,BaseWaist,0x2E4D,Ceinture à Pochette,2.0,FALSE,FALSE,Belt
+CeintureBarbare,BaseWaist,0x2E4E,Ceinture Barbare,2.0,FALSE,FALSE,Belt
+CeintureCloutee,BaseWaist,0x2E4F,Ceinture Cloutée,2.0,FALSE,FALSE,Belt
+CeintureCorsaire,BaseWaist,0x2E50,Ceinture de Corsaire,2.0,FALSE,FALSE,Belt
+CeintureVoyage,BaseWaist,0x2E51,Ceinture de Voyage,2.0,FALSE,FALSE,Belt
+CeintureOssuaire,BaseWaist,0x2E52,Ceinture d'Ossuaire,2.0,FALSE,FALSE,Belt
+CeintureDouble,BaseWaist,0x2E53,Deinture Double,2.0,FALSE,FALSE,Belt
+CeintureEcharpe,BaseWaist,0x2E54,Ceinture en Echarpe,2.0,FALSE,FALSE,Belt
+CeintureGitane,BaseWaist,0x2E55,Ceinture Gitane,2.0,FALSE,FALSE,Belt
+CeintureGuerriere,BaseWaist,0x2E56,Ceinture Guerriere,2.0,FALSE,FALSE,Belt
+CeintureLacee,BaseWaist,0x2E57,Ceinture Lacée,2.0,FALSE,FALSE,Belt
+CeintureRenforcee,BaseWaist,0x2E58,Ceinture renforcée,2.0,FALSE,FALSE,Belt
+CeintureRoublarde,BaseWaist,0x2E59,Ceinture Roublarde,2.0,FALSE,FALSE,Belt
+Ceinturon,BaseWaist,0x2E5A,Ceinturon,2.0,FALSE,FALSE,Belt
+EpaulettesCorne,BaseWaist,0x2E5B,Epaulettes à Corne,2.0,FALSE,FALSE,Belt
+FixationCroisee,BaseWaist,0x2E5C,Fixation Croisée,2.0,FALSE,FALSE,Belt
+GardeEpeeTransversale,BaseWaist,0x2E5D,Garde d'Epée Transversale,2.0,FALSE,FALSE,Belt
+VoileProtecteur,BaseWaist,0x2E5E,Voile Protecteur,2.0,FALSE,FALSE,Belt

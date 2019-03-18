@@ -7,3 +7,5 @@
 {{switch:CraftBase[Tunic]}}AddCraft(typeof({{ItemName}}), 1111747, "{{ItemFullName}}", 00.0, 25.0, typeof(Cloth), 1044455, 12, 1044287);
 {{switch:CraftBase[Doublet]}}AddCraft(typeof({{ItemName}}), 1111747, "{{ItemFullName}}", 0, 25.0, typeof(Cloth), 1044455, 8, 1044287);
 {{switch:CraftBase[Robe]}}AddCraft(typeof({{ItemName}}), 1111747, "{{ItemFullName}}", 53.9, 78.9, typeof(Cloth), 1044455, 16, 1044287);
+{{switch:CraftBase[Belt]}}AddCraft(typeof({{ItemName}}), 1015283, "{{ItemFullName}}", 20.0, 45.0, typeof(Cloth), 1044455, 6, 1044287);
+{{switch:CraftBase[Quiver]}}AddCraft(typeof({{ItemName}}), 1015283, "{{ItemFullName}}", 65.0, 115.0, typeof(Leather), 1044462, 28, 1044463);
